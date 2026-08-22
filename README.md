@@ -1,5 +1,4 @@
-# Planes-Battleship-AI
-# Planes (Avioane)
+# Planes-Battleship-AI(Avioane)
 
 A console-based, human-vs-computer variant of Battleship, built for the **Object-Oriented Programming** course. Instead of ships, each player hides 3 planes on a 10×10 grid; instead of sinking a hull, you have to find and strike each plane's **head** to bring it down. The computer opponent uses a heuristic targeting strategy (no minimax, since Battleship-style games are imperfect-information — see [AI Strategy](#computer-ai-strategy)).
 
